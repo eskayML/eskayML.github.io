@@ -18,10 +18,11 @@ h3 {
 }
 #Services{
   margin-bottom: 6em;
+  margin-left: 5em;
 }
 #Services h4 {
   color: var(--blue);
-  font-family: tahoma;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /*  */
 #About {

@@ -4,32 +4,34 @@ export default function Services() {
       <div className=" mt-5 mb-3">
         <h3 style={{ "font-weight": "bold" }}>Services</h3>
       </div>
-      <div className="row">
-        <div className="card col-md-3 shadow-sm  mt-3 mx-auto">
-          <div className="card-body text-center">
-            <h4 className="card-title">AI
-Consulting</h4>
-            <p className="card-text">
-            Feasibility Assessments and UseCase Identifications for businesses
-            </p>
+      <div className="container">
+        <div className="row">
+          <div className="card col-md-3 shadow-sm  mt-3 mx-auto">
+            <div className="card-body text-center">
+              <h4 className="card-title">AI Consulting</h4>
+              <p className="card-text">
+                Feasibility Assessments and UseCase Identifications for
+                businesses
+              </p>
+            </div>
           </div>
-        </div>
-        <div className="card col-md-3 shadow-sm mt-3  mx-auto">
-          <div className="card-body text-center">
-            <h4 className="card-title">Natural Language Processing</h4>
-            <p className="card-text">
-              Document categorization , Data mining, Text summarization, Entity
-              identification
-            </p>
+          <div className="card col-md-3 shadow-sm mt-3  mx-auto">
+            <div className="card-body text-center">
+              <h4 className="card-title">Natural Language Processing</h4>
+              <p className="card-text">
+                Document categorization , Data mining, Text summarization,
+                Entity identification
+              </p>
+            </div>
           </div>
-        </div>
-        <div className="card col-md-3 shadow-sm mt-3  mx-auto">
-          <div className="card-body text-center">
-            <h4 className="card-title">ChatBot Development</h4>
-            <p className="card-text">
-            Building high performance AI powered Chatbots for customer
-              onboarding
-            </p>
+          <div className="card col-md-3 shadow-sm mt-3  mx-auto ">
+            <div className="card-body text-center">
+              <h4 className="card-title">ChatBot Development</h4>
+              <p className="card-text">
+                Building high performance AI powered Chatbots for customer
+                onboarding
+              </p>
+            </div>
           </div>
         </div>
       </div>
