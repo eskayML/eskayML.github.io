@@ -1,0 +1,23 @@
+
+.banner__img {
+    width: 10em;
+    height: 10em;
+
+}
+
+.banner__description {
+    font-size: 1.3em;
+}
+
+.banner__description p{
+    margin-top: -.5em;
+}
+
+h1{
+    font-weight: bolder;
+}
+
+.header__illustration{
+    width: 25em;
+    height: 25em;
+}

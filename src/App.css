@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Nunito+Sans:opsz@6..12&family=Poppins&display=swap");
+
+
+:root {
+  --blue: rgb(21, 213, 238);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h3 {
+  font-weight: bold;
+}
+.Header {
+  margin-top: 4em;
+  margin-bottom: 10em;
+}
+#Services{
+  margin-bottom: 6em;
+}
+#Services h4 {
+  color: var(--blue);
+  font-family: tahoma;
+}
+/*  */
+#About {
+  font-size: 1.4em;
+}
+#About p{
+  line-height: 2em;
+}
+#About span {
+  color: var(--blue);
+  font-weight: bold;
+}
+#About img{
+transform: scale(.8);
+}
+#About .gh{
+  width: 70px;
+  height: 70px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#About .icon:hover{
+  cursor: pointer;
+  transform: scale(1.01);
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-link:hover{
+  color: var(--blue);
 }
