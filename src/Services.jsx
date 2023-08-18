@@ -6,7 +6,7 @@ export default function Services() {
       </div>
       <div className="container">
         <div className="row">
-          <div className="card col-md-3 shadow-sm  mt-3 mx-auto">
+          <div className="card col-md-3 shadow-sm  mt-3 mx-auto ">
             <div className="card-body text-center">
               <h4 className="card-title">AI Consulting</h4>
               <p className="card-text">
