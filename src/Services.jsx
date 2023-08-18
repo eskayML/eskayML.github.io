@@ -2,7 +2,7 @@ export default function Services() {
   return (
     <div className="container mx-auto text-center" id="Services">
       <div className=" mt-5 mb-3">
-        <h3 style={{ "font-weight": "bold" }}>Services</h3>
+        <h3>Services</h3>
       </div>
       <div className="container">
         <div className="row">
