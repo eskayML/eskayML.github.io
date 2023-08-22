@@ -52,3 +52,32 @@ transform: scale(.8);
 .nav-link:hover{
   color: var(--blue);
 }
+
+form{
+margin-left:5em ;
+}
+input{
+  display: block;
+  width: 60%;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid var(--blue);
+  margin-bottom: 1em;
+}
+
+textarea {
+  width: 60%;
+  position: relative;
+  display: block;
+  float: left;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid var(--blue);
+
+}
+
+.btn-long{
+  width: 8em;
+  display: block;
+  margin-top: 6em;
+}
