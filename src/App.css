@@ -82,3 +82,12 @@ textarea {
   display: block;
   margin-top: 6em;
 }
+
+
+.Footer{
+  background-color: var(--blue);
+  height: 30vh;
+  margin-top: 9em;
+  background-color: #222;
+  color: white;
+}
