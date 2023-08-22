@@ -58,7 +58,7 @@ margin-left:5em ;
 }
 input{
   display: block;
-  width: 60%;
+  width: 70%;
   outline: none;
   border: none;
   border-bottom: 2px solid var(--blue);
@@ -66,7 +66,7 @@ input{
 }
 
 textarea {
-  width: 60%;
+  width: 70%;
   position: relative;
   display: block;
   float: left;
@@ -90,4 +90,8 @@ textarea {
   margin-top: 9em;
   background-color: #222;
   color: white;
+}
+
+#Services i{
+  transform: scale(1.4);
 }
