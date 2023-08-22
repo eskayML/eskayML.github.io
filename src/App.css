@@ -72,6 +72,7 @@ textarea {
   float: left;
   outline: none;
   border: none;
+  resize: none;
   border-bottom: 2px solid var(--blue);
 
 }
