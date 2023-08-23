@@ -28,9 +28,9 @@ export default function Contact() {
         <h3>Contact</h3>
         <p>Let's talk about your project</p>
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name="from_name" placeholder="Your Name" />
-          <input type="email" name="from_email" placeholder="Your Email" />
-          <textarea name="message" placeholder="Write Message.."></textarea>
+          <input type="text" name="from_name" placeholder="Your Name" required/>
+          <input type="email" name="from_email" placeholder="Your Email" required/>
+          <textarea name="message" placeholder="Write Message.."  required ></textarea>
           <button type="submit" className="btn btn-dark btn-long">
             Send
           </button>
