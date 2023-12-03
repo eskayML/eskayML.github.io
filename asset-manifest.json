@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.6c3ddf5b.css",
-    "main.js": "/static/js/main.5cdf54de.js",
+    "main.js": "/static/js/main.71214c87.js",
     "static/js/787.168b90f2.chunk.js": "/static/js/787.168b90f2.chunk.js",
     "static/media/chatbot illus.jpg": "/static/media/chatbot illus.b753b442f0f5da8af07f.jpg",
     "static/media/cropped profile image.png": "/static/media/cropped profile image.f8ba0901b9561bca118c.png",
+    "static/media/project__skyhigh_recommender.jpg": "/static/media/project__skyhigh_recommender.bd61791eff840007787f.jpg",
+    "static/media/project__startup_generator.jpg": "/static/media/project__startup_generator.123dfde276b454da462c.jpg",
+    "static/media/project__nigerian_houses_prediction.jpg": "/static/media/project__nigerian_houses_prediction.1a1aca77e8429fa5aa0e.jpg",
     "static/media/eskayML_logo_face.jpg": "/static/media/eskayML_logo_face.c67e1922e2ca4d0d5ba2.jpg",
     "index.html": "/index.html",
     "main.6c3ddf5b.css.map": "/static/css/main.6c3ddf5b.css.map",
-    "main.5cdf54de.js.map": "/static/js/main.5cdf54de.js.map",
+    "main.71214c87.js.map": "/static/js/main.71214c87.js.map",
     "787.168b90f2.chunk.js.map": "/static/js/787.168b90f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3ddf5b.css",
-    "static/js/main.5cdf54de.js"
+    "static/js/main.71214c87.js"
   ]
 }
