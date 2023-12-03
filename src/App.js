@@ -5,13 +5,14 @@ import Services from './Services';
 import About from './About';
 import './App.css'
 import Contact from './Contact';
-
+import Projects from './Projects';
 
 function App() {
   return (
     <div>
      <NavBar />
       <Header />
+      <Projects />
       <Services />
       <About />
       <Contact />

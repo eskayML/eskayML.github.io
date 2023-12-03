@@ -12,7 +12,7 @@ export default function Services() {
               <p><i className="fa-solid fa-calendar-days"></i></p>
               <p className="card-text">
                 Feasibility Assessments and UseCase Identifications for
-                businesses
+                businesses to provide customers with the highest value possible.
               </p>
             </div>
           </div>
@@ -31,8 +31,8 @@ export default function Services() {
               <h4 className="card-title">ChatBot Development</h4>
               <p><i className="fa-solid fa-robot"></i> </p>
               <p className="card-text">
-                Building high performance AI powered Chatbots for customer
-                onboarding
+                Building high performance AI powered Chatbots , RAG pipelines and Information Retrieval.
+                <br/>Bots that are optimized for tasks like customer onboarding and leads generation.
               </p>
             </div>
           </div>

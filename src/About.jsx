@@ -3,7 +3,7 @@ import FaceBook from './icons/fb.png'
 import Twitter from './icons/twitter.png'
 import Github from './icons/github.png'
 import Insta from './icons/ig.png'
-
+import Linkedin from './icons/linkedn_icon.png'
 
 export default function About() {
   return (
@@ -28,6 +28,7 @@ export default function About() {
             <a href="https://www.instagram.com/eskayml/" target='_blank'><img src={Insta} alt="twitter icon" className = 'icon' /></a>
             <a href="https://www.facebook.com/eskay.developer/" target='_blank'><img src={FaceBook} alt="twitter icon" className = 'icon' /></a>
             <a href="https://github.com/eskayML" target='_blank'><img src={Github} alt="twitter icon" className = 'icon gh' /></a>
+            <a href="https://www.linkedin.com/in/samuel-kalu-3374b1248" target='_blank'><img src={Linkedin} alt="linkedin icon" className = 'icon' /></a>
         </div>
       </div>
     </div>
