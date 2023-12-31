@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.6c3ddf5b.css",
-    "main.js": "/static/js/main.71214c87.js",
+    "main.js": "/static/js/main.62865003.js",
     "static/js/787.168b90f2.chunk.js": "/static/js/787.168b90f2.chunk.js",
+    "static/media/project__nurse_nkiru.jpg": "/static/media/project__nurse_nkiru.d91a2b9cc61ecf53b618.jpg",
     "static/media/chatbot illus.jpg": "/static/media/chatbot illus.b753b442f0f5da8af07f.jpg",
     "static/media/cropped profile image.png": "/static/media/cropped profile image.f8ba0901b9561bca118c.png",
     "static/media/project__skyhigh_recommender.jpg": "/static/media/project__skyhigh_recommender.bd61791eff840007787f.jpg",
@@ -11,11 +12,11 @@
     "static/media/eskayML_logo_face.jpg": "/static/media/eskayML_logo_face.c67e1922e2ca4d0d5ba2.jpg",
     "index.html": "/index.html",
     "main.6c3ddf5b.css.map": "/static/css/main.6c3ddf5b.css.map",
-    "main.71214c87.js.map": "/static/js/main.71214c87.js.map",
+    "main.62865003.js.map": "/static/js/main.62865003.js.map",
     "787.168b90f2.chunk.js.map": "/static/js/787.168b90f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3ddf5b.css",
-    "static/js/main.71214c87.js"
+    "static/js/main.62865003.js"
   ]
 }
