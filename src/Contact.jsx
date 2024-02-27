@@ -23,8 +23,9 @@ export default function Contact() {
   };
 
   return (
-    <div id="Contact" className="container">
-      <div className="mt-5 mb-3 text-center">
+    <div id="Contact" className="container ">
+
+      <div className="mx-auto text-center">
         <h3>Contact</h3>
         <p>Let's talk about your project</p>
         <form ref={form} onSubmit={sendEmail}>

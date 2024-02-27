@@ -1,4 +1,4 @@
-import Profile from './images/cropped profile image.png'
+import Profile from './images/new_profile_image_nobg.png'
 import FaceBook from './icons/fb.png'
 import Twitter from './icons/twitter.png'
 import Github from './icons/github.png'
@@ -12,14 +12,14 @@ export default function About() {
         <h3>About</h3>
       </div>
       <div className="row">
-        <div className="col-md-5">
+        <div className="col-md-5 justify-content-center align-items-center d-flex">
           <p>
             Meet <span>Samuel</span> , an AI expert with a flair for  building applications powered by artificial Intelligence. He has
             over 3 years of experience in the field
           </p>
         </div>
 
-        <div className="col-md-4">
+        <div className="col-md-4 justify-content-center align-items-center d-flex">
             <img src={Profile} alt="Samuel's profile image"  />
         </div>
 

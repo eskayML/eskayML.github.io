@@ -5,25 +5,39 @@ import SegMentImg from './images/project__image_segmentation.jpg'
 import SentiImg from './images/project__naija_senti.jpg'
 import RentImg from './images/project__nigerian_houses_prediction.jpg'
 import NkiruImg from './images/project__nurse_nkiru.jpg'
+import SearchyImg from './images/searchy_logo.png'
+
+
 
 function Projects() {
   return (
-        <div className="container mx-auto text-center" id="Projects">
-          <div className=" mt-5 mb-3">
+        <div className="container  text-center" id="Projects">
+          <div className="mt-5 mb-3">
             <h3>Projects</h3>
           </div>
           <div className="container">
-            <div className="row">
-            <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3  ">
+            <div className="row justify-content-center">
+              
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm m-3 p-2 card">
                 <img className="card-img-top" src={NkiruImg} alt=" nurse nkiru" />
                 <div className="card-body">
                     <h4 className="card-title">Nurse Nkiru</h4>
                     <p className="card-text">A smart AI powered  Chatbot that helps with health related issues.</p>
-                    <a href="https://huggingface.co/spaces/eskayML/Nurse_Nkiru" className="btn  btn-outline-dark" target='_blank'>View Live</a>
+                    <a href="https://hf.co/chat/assistant/65c71c79c7849c5d76d01f6c" className="btn  btn-outline-dark" target='_blank'>View Live</a>
                 </div>
               </div>
 
-              <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3 mx-auto ">
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm m-3 p-2 card">
+                <img className="card-img-top" src={SearchyImg} alt=" searchy img" />
+                <div className="card-body">
+                    <h4 className="card-title">Searchy</h4>
+                    <p className="card-text">A E-commerce based search engine that uses a combination of images + text powered recommendations to filter listed products</p>
+                    <a href="https://searchy.streamlit.app" className="btn  btn-outline-dark" target='_blank'>View Live</a>
+                </div>
+              </div>
+
+
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm  m-3 p-2 card  ">
                 <img className="card-img-top" src={StartupGenImg} alt=" startup generator" />
                 <div className="card-body">
                     <h4 className="card-title">Startup Idea Generator</h4>
@@ -32,7 +46,7 @@ function Projects() {
                 </div>
               </div>
 
-              <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3 mx-auto ">
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm  m-3 p-2 card">
                 <img className="card-img-top" src={SkyHighImg} alt = 'skyhigh project'/>
                 <div className="card-body">
                     <h4 className="card-title">SkyHigh Recommender</h4>
@@ -41,7 +55,7 @@ function Projects() {
                 </div>
               </div>
 
-              <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3 mx-auto ">
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm  m-3 p-2 card  ">
                 <img className="card-img-top" src={SegMentImg} alt = 'mask segmentation' />
                 <div className="card-body">
                     <h4 className="card-title">Automatic Image Segmentation</h4>
@@ -50,16 +64,16 @@ function Projects() {
                 </div>
               </div>
 
-              <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3 mx-auto ">
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm  m-3 p-2 card  ">
                 <img className="card-img-top" src={SentiImg} alt = 'naijasenti' />
                 <div className="card-body">
                     <h4 className="card-title">Naija Senti</h4>
-                    <p className="card-text">A Sentiment analysis application that recognizes nigerian languages (e.g Pidgin, Igbo, Yoruba, Hausa) and returns their sentiments.</p>
+                    <p className="card-text">A Sentiment analysis model that recognizes nigerian languages (e.g Pidgin, Igbo, Yoruba, Hausa) in a given text and returns their sentiments.</p>
                     <a href="https://huggingface.co/spaces/eskayML/naija_senti" className="btn  btn-outline-dark" target='_blank'>View Live</a>
                 </div>
               </div>
 
-              <div className="card col-md-4 mr-3 mb-3 col-sm-9 shadow-sm  mt-3 mx-auto ">
+              <div className="col-md-3 mb-3 col-sm-9 shadow-sm  m-3 p-2 card  ">
                 <img className="card-img-top" src = {RentImg} alt='rent image of houses' />
                 <div className="card-body">
                     <h4 className="card-title">Nigerian House Rent Predicton </h4>
