@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c3ddf5b.css",
-    "main.js": "/static/js/main.b5149809.js",
+    "main.js": "/static/js/main.8cfcd076.js",
     "static/js/787.168b90f2.chunk.js": "/static/js/787.168b90f2.chunk.js",
     "static/media/searchy_logo.png": "/static/media/searchy_logo.700c403c4a5b1df91366.png",
     "static/media/diagnosys_logo.png": "/static/media/diagnosys_logo.be62670fa64bd103feb2.png",
@@ -14,11 +14,11 @@
     "static/media/eskayML_logo_face.jpg": "/static/media/eskayML_logo_face.c67e1922e2ca4d0d5ba2.jpg",
     "index.html": "/index.html",
     "main.6c3ddf5b.css.map": "/static/css/main.6c3ddf5b.css.map",
-    "main.b5149809.js.map": "/static/js/main.b5149809.js.map",
+    "main.8cfcd076.js.map": "/static/js/main.8cfcd076.js.map",
     "787.168b90f2.chunk.js.map": "/static/js/787.168b90f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3ddf5b.css",
-    "static/js/main.b5149809.js"
+    "static/js/main.8cfcd076.js"
   ]
 }
