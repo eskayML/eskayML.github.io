@@ -15,9 +15,8 @@ export default function About() {
         <div className="col-md-5 justify-content-center align-items-center d-flex">
           <p>
             Meet <span>Samuel</span> , an AI expert with a flair for  building applications powered by artificial Intelligence. He has
-            over 3 years of experience in the field
-
-            I have a lot of interests in ML which lies strongly in the healthcare domain.
+            over 3 years of experience in the field.
+            My interests and projects strongly surround the healthcare domain
           </p>
         </div>
 
