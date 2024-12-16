@@ -14,7 +14,7 @@ export default function App() {
         <Hero />
         <Services />
         <Projects />
-        <Experience />
+        {/* <Experience /> */}
         <Skills />
         <Contact />
       </main>

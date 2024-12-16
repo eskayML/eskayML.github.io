@@ -17,8 +17,8 @@ export default function Navbar() {
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-8">
               <a href="#about" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">About</a>
-              <a href="#projects" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">Projects</a>
-              <a href="#experience" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">Experience</a>
+              <a href="#projects" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">Featured Projects</a>
+              {/* <a href="#experience" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">Experience</a> */}
               <a href="#skills" className="text-gray-300 hover:text-white px-3 py-2 transition-colors">Skills</a>
               <a href="#contact" className="bg-sky-600 text-white px-4 py-2 rounded-lg hover:bg-sky-700 transition-colors">Contact</a>
             </div>
@@ -34,8 +34,8 @@ export default function Navbar() {
         <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a href="#about" className="text-gray-300 hover:text-white block px-3 py-2">About</a>
-            <a href="#projects" className="text-gray-300 hover:text-white block px-3 py-2">Projects</a>
-            <a href="#experience" className="text-gray-300 hover:text-white block px-3 py-2">Experience</a>
+            <a href="#projects" className="text-gray-300 hover:text-white block px-3 py-2">Featured Projects</a>
+            {/* <a href="#experience" className="text-gray-300 hover:text-white block px-3 py-2">Experience</a> */}
             <a href="#skills" className="text-gray-300 hover:text-white block px-3 py-2">Skills</a>
             <a href="#contact" className="bg-sky-600 text-white block px-3 py-2 rounded-lg">Contact</a>
           </div>

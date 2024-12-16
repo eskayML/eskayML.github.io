@@ -14,7 +14,7 @@ const services = [
   {
     icon: Shield,
     title: 'AI Security & Ethics',
-    description: 'Implementing robust security measures and ethical AI practices in all our solutions.'
+    description: 'Implementing robust security measures and ethical AI practices in all my solutions.'
   },
   {
     icon: Cpu,
@@ -28,7 +28,7 @@ export default function Services() {
     <section id="services" className="py-24 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-3xl font-bold text-white sm:text-4xl">Our Services</h2>
+          <h2 className="text-3xl font-bold text-white sm:text-4xl">My Services</h2>
           <p className="mt-4 text-xl text-gray-400">
             Comprehensive AI solutions tailored to your needs
           </p>
